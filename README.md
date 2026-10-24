@@ -26,7 +26,7 @@ OS: Android 10
 2. 삼성 갤럭시 M20
 기기: Samsung Galaxy M20 (한국 정발)
 OS: Android 10 (삼성 공식 최종 펌웨어)
-루팅: Magisk
+루팅: Magisk + NEOZygisk
 후킹: Vector 2.2
 테스트 앱:
 네이버지도 6.11.2.2 — 2026년 10월 24일 기준 확인된 최신 버전
